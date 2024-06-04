@@ -1,0 +1,17 @@
+# MirrorDAWg
+
+Welcome to **MirrorDAWg**! This project is a revolutionary Digital Audio Workstation game that combines audio engineering, interactive gaming, and a rich user experience through a sophisticated and layered system.
+
+## Overview
+
+MirrorDAWg is designed to provide a unique experience for both audio professionals and gaming enthusiasts. It features a structured approach to digital audio processing and interactive elements that make it engaging and fun.
+
+## Key Features
+
+1. **Simulated Web and Server Environments**: MirrorDAWg includes a mock server using Tkinter that can function as a real server, allowing you to host it on free hosting platforms.
+2. **Block Game Potential**: The project includes components for creating block-based games, enhancing the interactive gaming experience.
+
+## Project Structure
+
+Here is the full directory tree for the current scope of the Mirror-Two project:
+
