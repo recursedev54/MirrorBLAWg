@@ -1,3 +1,4 @@
+#DO NOT RUN THIS CODE IT WILL RECURSE AND KILL YOUR COMPUTER
 import os
 import subprocess
 import time
