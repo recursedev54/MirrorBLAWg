@@ -1,7 +1,7 @@
 import os
 
 
-os.environ["OPENAI_API_KEY"] = "sk-proj-oG5NDL1aINVPSgAEFunwT3BlbkFJXvp5wtZ0Skrs6Ogh98FK"
+os.environ["OPENAI_API_KEY"] = ""
 
 import openai
 import json
